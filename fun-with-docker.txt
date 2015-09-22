@@ -1,1 +1,3 @@
-# give docker a low priority so you can still do other things.
+give docker a low priority so you can still do other things.
+
+The docker tooling in eclipse is useful for Linux users. 
